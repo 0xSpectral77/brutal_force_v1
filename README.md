@@ -33,11 +33,12 @@ Clona el repositorio:
 ```bash
 git clone https://github.com/tu-usuario/brutal-force.git
 cd brutal-force
-
+```
 
 Otorga permisos de ejecución:
 
 chmod +x brutal-force.py
+
 ---
 
 ## 📖 Uso
