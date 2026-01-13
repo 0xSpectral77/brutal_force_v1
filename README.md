@@ -31,7 +31,7 @@
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/brutal-force.git
+git clone https://github.com/0xSpectral77/brutal-force.git
 cd brutal-force
 ```
 
