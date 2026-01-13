@@ -31,8 +31,8 @@
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/0xSpectral77/brutal-force.git
-cd brutal-force
+git clone https://github.com/0xSpectral77/brutal_force_v1
+cd brutal_force_v1
 ```
 
 Otorga permisos de ejecución:
