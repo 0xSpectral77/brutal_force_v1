@@ -43,4 +43,4 @@ chmod +x brutal-force.py
 
 ## 📖 Uso
 
-./brutal-force.py -u <usuario> -w <wordlist>
+- ./brutal-force.py -u <usuario> -w <wordlist>
